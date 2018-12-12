@@ -1,0 +1,14 @@
+<customers>
+	<customer>
+		<id>1</id>
+		<name>Alice</name>
+	</customer>
+	<customer>
+		<id>2</id>
+		<name>Bob</name>
+	</customer>
+	<customer>
+		<id>3</id>
+		<name>Charlie</name>
+	</customer>
+</customers>
