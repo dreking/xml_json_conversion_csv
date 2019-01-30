@@ -1,0 +1,15 @@
+customerId,timestamp,amount,customerName,CityName,TransactionId
+1,1539767520453,5612.32,Alice,"16 KK 16 Ave, Kigali, Rwanda",1
+1,1539767722039,2001,Alice,"16 KK 16 Ave, Kigali, Rwanda",2
+1,1539767723735,1987.11,Alice,"16 KK 16 Ave, Kigali, Rwanda",3
+1,1539767724559,9888.99,Alice,"16 KK 16 Ave, Kigali, Rwanda",4
+2,1539767829151,324234.99,Bob,"KU Plaza, Nairobi, Kenya",5
+2,1539767830247,12224.99,Bob,"KU Plaza, Nairobi, Kenya",6
+2,1539767830951,99221.22,Bob,"KU Plaza, Nairobi, Kenya",7
+2,1539767830951,99221.22,Bob,"KU Plaza, Nairobi, Kenya",8
+2,1539767830951,99221.22,Bob,"KU Plaza, Nairobi, Kenya",9
+3,1539767905080,1221.11,Charlie,"Johannesburg CBD Bus Stop, Von Wielligh St, Johannesburg, 2000, South Africa",10
+3,1539767905801,98711,Charlie,"Johannesburg CBD Bus Stop, Von Wielligh St, Johannesburg, 2000, South Africa",11
+3,1539767906176,2100119992,Charlie,"Johannesburg CBD Bus Stop, Von Wielligh St, Johannesburg, 2000, South Africa",12
+3,1539767724559,2222113.99,Charlie,"Johannesburg CBD Bus Stop, Von Wielligh St, Johannesburg, 2000, South Africa",13
+3,1539767722039,123.45,Charlie,"Johannesburg CBD Bus Stop, Von Wielligh St, Johannesburg, 2000, South Africa",14
